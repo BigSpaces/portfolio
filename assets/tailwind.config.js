@@ -13,6 +13,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'hero': "url('https://ithesound.com/wp-content/uploads/2022/12/fullstack-background.jpg')",
+        'hero_small': "url('https://ithesound.com/wp-content/uploads/2022/12/JonBGSmall.jpg')" 
       },
       fontFamily: {
         'headers': ['"Montserrat"', 'cursive'],
